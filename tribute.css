@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+#title {
+    font-size: 2.5em;
+    margin-top: 20px;
+}
+#img-div {
+    margin: 20px auto;
+    width: 50%;
+}
+#image {
+    width: 100%;
+    height: auto;
+}
+#tribute-info, #early-life, #career-highlights, #personal-anecdotes, #gallery {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px auto;
+    width: 60%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+#gallery img {
+    width: 45%;
+    margin: 10px;
+}
+#tribute-link {
+    display: block;
+    margin-top: 20px;
+    color: #333;
+    text-decoration: none;
+}
